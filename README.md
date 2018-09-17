@@ -1,7 +1,7 @@
 # Build a Portfolio Site
 
 <p align="center">
-    <img src="https://github.com/alexsnow348/Portfolio/images/port.jpg?raw=true" alt="Portfolio Image">
+    <img src="https://github.com/alexsnow348/Portfolio/blob/master/images/port.png?raw=true" alt="Portfolio Image">
 </p>
 
 ## About
